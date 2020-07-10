@@ -19,6 +19,9 @@ This build is compatible up to Big Sur Beta
 - Perfect Sleep/Wake for 1080P Model no-touch, still bugs for 3K
 - Exact same functionality as Catalina
 
+# What Works / Does Not
+- Everything is flawless except sleep on 3K has small issues
+
 # Notes
 - Never tested USB C except for charging, works great
 - USB devices eject on sleep (not really an issue)
