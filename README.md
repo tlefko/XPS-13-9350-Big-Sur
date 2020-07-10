@@ -1,6 +1,5 @@
-# XPS-13-9350-Big-Sur
-Big Sur for the XPS 13 9350
-
+# Site
+- checkout our official site! https://twortech.wixsite.com/pcmac
 # Version Info
 
 This build is compatible up to Big Sur Beta
