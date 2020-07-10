@@ -52,6 +52,7 @@ This guide provides a working setup with little knowledge of the topic and witho
 - To do this, you need to install Big Sur to a virtual machine (lots of guides online) and then create an dmg of that system, and restore it onto your HDD using the 'dd' command
 - There are various guides online how to get this virtual machine setup complete.
 - You can then use the attached EFI folder to boot and use macOS big Sur
+- You can use this video to show you how to get your macOS pre-installed onto your hard drive https://www.youtube.com/watch?v=HMU3nhcbWHw
  
  # Boot Entry Setup
  - Boot into the BIOS of the computer, then navigate to the Boot setup (or entries (not sure what it is called exactly, but it will be a list of the options your computer selects to boot)
